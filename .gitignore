@@ -4,3 +4,5 @@
 *.egg-info
 *.pyc
 .DS_Store
+paper/paper_old.pdf
+paper/paper.pdf
